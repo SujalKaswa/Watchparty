@@ -1,0 +1,1 @@
+ALTER TABLE `watch_room_participants` ADD `participantTokenHash` varchar(64) DEFAULT '' NOT NULL;

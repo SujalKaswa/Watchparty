@@ -1,0 +1,1 @@
+ALTER TABLE `watch_rooms` ADD `playbackTimestamp` timestamp DEFAULT (now()) NOT NULL;

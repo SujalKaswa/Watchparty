@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Discover films and start a ReelRoom"},{"path":"/r/:code","title":"Watch together in ReelRoom"}]}
